@@ -55,6 +55,7 @@ Themes :
 sudo apt install vlc ffmpeg flashplugin-installer
 sudo apt install gthumb
 sudo apt install libreoffice
+sudo apt install gimp
 ```
 
 ## Networking tools
