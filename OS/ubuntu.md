@@ -120,5 +120,5 @@ sudo apt install thunderbird thunderbird-locale-fr
 
 Troubleshooting
 ```
-sudo apt install thunderbird teamviewer
+sudo apt install teamviewer
 ```
