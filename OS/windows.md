@@ -67,6 +67,9 @@ SSH/SCP :
 - CrystalDiskInfo : https://crystalmark.info/en/software/crystaldiskinfo/
 - MiniTool Partition Wizard : https://www.partitionwizard.com/free-partition-manager.html
 
+### Hash of file
+- HashTab : http://implbits.com/products/hashtab/
+
 # Windows - Tips
 ## CMD
 
