@@ -10,6 +10,7 @@ sudo apt full-upgrade
 
 ```
 sudo apt install build-essential git
+sudo apt install tree
 ```
 
 Gitkraken : https://support.gitkraken.com/how-to-install/

@@ -66,3 +66,13 @@ SSH/SCP :
 ### Hard drive
 - CrystalDiskInfo : https://crystalmark.info/en/software/crystaldiskinfo/
 - MiniTool Partition Wizard : https://www.partitionwizard.com/free-partition-manager.html
+
+# Windows - Tips
+## CMD
+
+To use _TAB_ key to have auto-completion on the CMD windows, you have to modify _windows registery_ :  
+1) Open ` regedit`  
+2) Go to `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor`  
+3) Change `REG_DWORD` values :  
+- CompletionChar : `0x09`  
+- PathCompletionChar : `0x09`  
